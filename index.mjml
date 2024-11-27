@@ -23,7 +23,9 @@
          </mj-text>
         
         <mj-text>
-          First column
+          <mj-column>
+            <mj-text>First column</mj-text>
+          </mj-column>
         </mj-text>
       </mj-column>
 
